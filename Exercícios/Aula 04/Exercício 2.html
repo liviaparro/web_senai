@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercício 2</title>
+</head>
+<body>
+<form>
+  <label for="input_name_produto">Nome</label>
+    <input id="input_name_produto" type="text" placeholder="Nome do produto" required>
+    <br><br>
+  <label for="text_descricao">Descrição</label><br>
+    <textarea id="text_descricao" cols="10" rows="10"></textarea>
+    <br><br>
+  <label for="menu_categorias">Categorias</label>
+    <select id="menu_categorias">
+    <optgroup label="Categorias">
+        <option>Eletrônicos</option>
+        <option>Livros</option>
+        <option>Brinquedos</option>
+        <option>Esportes</option>
+        <option>Calçados</option>
+    </optgroup>
+    </select><br>
+
+  <label for="menu_paises">País de fabricação</label>
+    <select id="menu_paises">
+    <optgroup label="País de categoria">
+        <option>China</option>
+        <option>Estados Unidos</option>
+        <option>Brasil</option>
+        <option>Rússia</option>
+        <option>Alemanha</option>
+    </optgroup>
+    </select><br>
+  <label for="input_preco">Preço</label>
+    <input id="input_preco" type="number" placeholder="Preço do produto" required><br>
+  <label for="input_data">Data</label>
+    <input id="input_data" type="date" placeholder="Data de fabricação" required>
+    </select>
+    <button type="submit">Salvar</button>
+    <button type="reset">Limpar</button>
+</form>
+</body>
+</html>
