@@ -1,0 +1,81 @@
+body {
+    background: khaki;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.Verde {
+    color: green;
+    background-color: gray;
+}
+
+.Vermelho {
+    color: red;
+    text-align: center;
+    background-color: gray;
+}
+
+.Azul {
+    color: blue;
+    text-align: right;
+    background-color: gray;
+}
+
+.Roxo {
+    color: purple;
+    text-align: center;
+    background-color: gray;
+}
+
+.Amarelo {
+    color: yellow ;
+    background-color: gray;
+}
+
+.Rosa {
+    color: hotpink;
+    text-align: center;
+    background-color: gray;
+}
+
+.branco {
+    background: white;
+}
+
+.Verde:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.Vermelho:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.Azul:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.Roxo:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+.Amarelo:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+.Rosa:hover {
+    background-color: white;
+    color: black;
+    text-align: left;
+}

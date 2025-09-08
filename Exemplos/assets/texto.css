@@ -1,0 +1,22 @@
+p {
+    color: darkmagenta;
+
+}
+
+.text-black {
+    color: darkmagenta;
+    background-color: black;
+    display: inline;
+}
+
+#text-maior {
+    font-size: 32px;
+    font-family: "Comic Sans MS";
+}
+
+#text-maior:hover {
+    color: lightseagreen;
+    font-size: 32px;
+    font-family: "Comic Sans MS";
+    background-color: navajowhite ;
+}
