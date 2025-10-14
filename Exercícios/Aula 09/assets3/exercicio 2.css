@@ -1,0 +1,62 @@
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+thead {
+    background-color: midnightblue;
+    font-family: Serif;
+    color: lightskyblue;
+}
+
+.P {
+    background-color: lightskyblue;
+    font-family: "Arial Black";
+    color: midnightblue;
+}
+
+.verde1-4 {
+    background-color: midnightblue;
+    font-family: "Arial Black";
+    color: lime;
+}
+
+.azul5-6 {
+    background-color: midnightblue;
+    font-family: "Arial Black";
+    color: cornflowerblue;
+}
+
+.amarelo7-12 {
+    background-color: midnightblue;
+    font-family: "Arial Black";
+    color: gold;
+}
+
+.branco13-16 {
+    background-color: midnightblue;
+    font-family: "Arial Black";
+    color: white;
+}
+
+.vermelho17-20 {
+    background-color: midnightblue;
+    font-family: "Arial Black";
+    color: red;
+}
+
+.times {
+    background-color: lightgray;
+    font-family: "Arial Black";
+    color: midnightblue;
+    text-align: left;
+}
+
+.resto {
+    background-color: midnightblue;
+    font-family: "Calibri Light";
+    color: cornflowerblue;
+}
